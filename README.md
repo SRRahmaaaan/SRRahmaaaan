@@ -1,8 +1,8 @@
 ### Hello , I'm Sydur Rahamn
 ## I'm a Student And Web Developer!!
 
--🤚 I'm currently learning Web Development.
--✌ 2021 Goal: Become A Full Stack Web Developer.
+- 🤚 I'm currently learning Web Development.
+- ✌ 2021 Goal: Become A Full Stack Web Developer.
 
 ### Connect With Me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
